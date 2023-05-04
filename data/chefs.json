@@ -9,6 +9,7 @@
       "recipes": [
         {
           "recipe_name": "Spicy Chicken Curry",
+          "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "chicken",
             "coconut milk",
@@ -22,6 +23,7 @@
         },
         {
           "recipe_name": "Grilled Salmon with Lemon and Herbs",
+          "recipe_img":"https://images.pexels.com/photos/991967/pexels-photo-991967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": ["salmon", "lemon", "olive oil", "thyme", "rosemary"],
           "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon with olive oil and season with salt and pepper. 3. Grill salmon for 4-5 minutes per side. 4. Remove from grill and sprinkle with lemon juice and herbs.",
           "rating": 4.8,
@@ -29,6 +31,7 @@
         },
         {
           "recipe_name": "Pesto Pasta with Roasted Vegetables",
+          "recipe_img": "https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": ["pasta", "pesto", "zucchini", "eggplant", "red pepper"],
           "cooking_method": "1. Preheat oven to 400 degrees F. 2. Toss vegetables with olive oil, salt, and pepper. 3. Roast for 20-25 minutes, until tender. 4. Cook pasta according to package instructions. 5. Toss pasta with pesto and roasted vegetables.",
           "rating": 4.3,
@@ -46,6 +49,7 @@
       "recipes": [
         {
           "recipe_name": "Risotto with Wild Mushrooms",
+          "recipe_img":"https://images.pexels.com/photos/5152271/pexels-photo-5152271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "arborio rice",
             "wild mushrooms",
@@ -59,6 +63,7 @@
         },
         {
           "recipe_name": "Lamb Chops with Mint Pesto",
+          "recipe_img":"https://images.pexels.com/photos/6341569/pexels-photo-6341569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "lamb chops",
             "mint leaves",
@@ -72,6 +77,7 @@
         },
         {
           "recipe_name": "Roast Chicken with Herbed Potatoes",
+          "recipe_img":"https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "ingredients": ["chicken", "potatoes", "rosemary", "thyme", "garlic"],
           "cooking_method": "1. Preheat oven to 375 degrees F. 2. Rub chicken with olive oil and season with salt, pepper, and herbs. 3. Place chicken in a roasting pan and roast for 1 hour. 4. Toss potatoes with olive oil, salt, pepper, and herbs. 5. Add potatoes to the pan with the chicken and roast for an additional 30 minutes.",
           "rating": 4.6,
@@ -89,6 +95,7 @@
       "recipes": [
         {
           "recipe_name": "Korean BBQ Tacos",
+          "recipe_img":"https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "beef short ribs",
             "flour tortillas",
@@ -102,6 +109,7 @@
         },
         {
           "recipe_name": "Miso-Glazed Salmon",
+          "recipe_img":"https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "salmon fillets",
             "miso paste",
@@ -115,6 +123,7 @@
         },
         {
           "recipe_name": "Coconut Curry Noodle Soup",
+          "recipe_img":"https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "rice noodles",
             "coconut milk",
@@ -138,6 +147,7 @@
       "recipes": [
         {
           "recipe_name": "Quinoa Stuffed Bell Peppers",
+          "recipe_img":"https://images.pexels.com/photos/9893127/pexels-photo-9893127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "bell peppers",
             "quinoa",
@@ -151,6 +161,7 @@
         },
         {
           "recipe_name": "Grilled Chicken and Vegetable Skewers",
+          "recipe_img":"https://images.pexels.com/photos/1247677/pexels-photo-1247677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "chicken breast",
             "bell peppers",
@@ -164,6 +175,7 @@
         },
         {
           "recipe_name": "Healthy Banana Oat Pancakes",
+          "recipe_img":"https://images.pexels.com/photos/2872767/pexels-photo-2872767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "ripe bananas",
             "rolled oats",
@@ -187,6 +199,7 @@
       "recipes": [
         {
           "recipe_name": "Coq au Vin",
+          "recipe_img":"https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "chicken thighs",
             "bacon",
@@ -200,6 +213,7 @@
         },
         {
           "recipe_name": "Ratatouille",
+          "recipe_img":"https://images.pexels.com/photos/7439978/pexels-photo-7439978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "eggplant",
             "zucchini",
@@ -213,6 +227,7 @@
         },
         {
           "recipe_name": "Chocolate Mousse",
+          "recipe_img":"https://images.pexels.com/photos/14863907/pexels-photo-14863907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "ingredients": [
             "chocolate",
             "heavy cream",
@@ -228,14 +243,15 @@
     },
     { "id":"6",
       "chef_picture": "https://images.pexels.com/photos/3338672/pexels-photo-3338672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "chef_name": "Jean-Paul Dubois",
+      "chef_name": "jackey",
       "years_of_experience": 20,
       "num_recipes": 150,
       "likes": 3500,
-      "bio": "Jean-Paul Dubois is a renowned French chef with 20 years of experience in the culinary arts. He is known for his expertise in classic French cuisine and his dedication to using the freshest and highest-quality ingredients. In his free time, he enjoys traveling the world to discover new flavors and culinary traditions.",
+      "bio": "jackey Dubois is a renowned French chef with 20 years of experience in the culinary arts. He is known for his expertise in classic French cuisine and his dedication to using the freshest and highest-quality ingredients. In his free time, he enjoys traveling the world to discover new flavors and culinary traditions.",
       "recipes": [
       {
-        "recipe_name": "Coq au Vin",
+        "recipe_name": "chicken roast",
+        "recipe_img":"https://images.pexels.com/photos/14935580/pexels-photo-14935580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "chicken thighs",
           "bacon",
@@ -249,6 +265,7 @@
       },
       {
         "recipe_name": "Ratatouille",
+        "recipe_img":"https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "eggplant",
           "zucchini",
@@ -262,6 +279,7 @@
       },
       {
         "recipe_name": "Chocolate Mousse",
+        "recipe_img":"https://images.pexels.com/photos/1566837/pexels-photo-1566837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "chocolate",
           "heavy cream",
